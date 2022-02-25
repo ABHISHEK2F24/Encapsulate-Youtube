@@ -1,4 +1,4 @@
-# youtube-summariser
+# Encapsulate Youtube
 Natural Language Processing (NLP) is one of the exciting field of data science. I was wondering if we can somehow know the content of video before watching the video. Then I found about this mini project. Here we use a youtube video and using its available subtitle we can see is this video worth watching. But other problem is if video is very lengthy still it takes so much time to read the subtitles. So using NLP we can cut short the whole subtitle into small paragraph. Let's dive in.
 
 # Technical Overview
